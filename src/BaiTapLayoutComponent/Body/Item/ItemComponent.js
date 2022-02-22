@@ -7,7 +7,7 @@ export default class ItemComponent extends Component {
         <div className="container">
           <div className="row">
             <div className="col-4">
-              <div className="card" style={{ width: '18rem' }}>
+              <div className="card m-auto" style={{ width: '18rem' }}>
                 <img src="https://picsum.photos/200" className="card-img-top" alt="..." />
                 <div className="card-body">
                   <h5 className="card-title">Card title</h5>
@@ -17,7 +17,7 @@ export default class ItemComponent extends Component {
               </div>
             </div>
             <div className="col-4">
-              <div className="card" style={{ width: '18rem' }}>
+              <div className="card m-auto" style={{ width: '18rem' }}>
                 <img src="https://picsum.photos/200" className="card-img-top" alt="..." />
                 <div className="card-body">
                   <h5 className="card-title">Card title</h5>
@@ -27,7 +27,7 @@ export default class ItemComponent extends Component {
               </div>
             </div>
             <div className="col-4">
-              <div className="card" style={{ width: '18rem' }}>
+              <div className="card m-auto" style={{ width: '18rem' }}>
                 <img src="https://picsum.photos/200" className="card-img-top" alt="..." />
                 <div className="card-body">
                   <h5 className="card-title">Card title</h5>
